@@ -4,3 +4,14 @@
 /db-sync
 /content/upgrade/
 .DS_Store
+
+AcidRainCoffeeHouse/
+CompassCoffeeHouse/
+GoodTakes/
+OldStuff/
+assets/
+deepspace/
+googlehostedservice.html
+mail/
+.gitignore_
+php_errorlog
